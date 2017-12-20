@@ -1,7 +1,7 @@
 # Site settings
-title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build for jekyll
+title: 南京邮电大学通达学院 - 科协与技术协会计算机部首页
 email:
-description: A jekyll template for landing pages, portfolio and blogging
+description: 科协与技术协会计算机部
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://tangyuanqing.github.io/" # the base hostname & protocol for your site
