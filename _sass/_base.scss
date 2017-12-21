@@ -31,7 +31,7 @@ a {
   transition: all 0.35s;
   color: $theme-primary;
   &:hover, &:focus {
-    color: #87CEEB;
+    color: #fcbd20;
   }
 }
 
@@ -71,9 +71,9 @@ p {
       font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
       font-weight: 200;
       letter-spacing: 1px;
-      color: $theme-primary;
+      color: #000000;
       &:hover, &:focus {
-        color: #000000;
+        color: #1A94E6;
       }
     }
     .navbar-toggle {
